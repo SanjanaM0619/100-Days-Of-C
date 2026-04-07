@@ -32,6 +32,8 @@ Ex:Java,Python
 <li>Fast and Efficient</li>
 <li>Portable(Machine Independent)</li>
 <li>Rich Library Support</li>
+<li>Fast Speed</li>
+<li>Clean Syntax</li>
 </ol>
 <br>
 <h1>APPLICATIONS OF C LANGUAGE</h1>
